@@ -1,4 +1,4 @@
-+# PAGINA WEB PARA GRAFICA LyG
+# PAGINA WEB PARA GRAFICA LyG
 
 Es una landing page para darse a conocerse en la zona de Villa Ballester.
 
